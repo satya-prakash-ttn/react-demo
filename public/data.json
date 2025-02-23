@@ -1,0 +1,48 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Laptop",
+        "description": "A powerful laptop",
+        "category": "Electronics",
+        "price": 1200
+      },
+      {
+        "id": 2,
+        "title": "phone",
+        "description": "A modern phone",
+        "category": "Electronics",
+        "price": 800
+      },
+      {
+        "id": 32,
+        "title": "Smartphone",
+        "description": "A modern smartphone",
+        "category": "Electronics",
+        "price": 900
+      },
+      {
+        "id": 4,
+        "title": "Nokia Phone",
+        "description": "A modern Nokia phone",
+        "category": "Electronics",
+        "price": 2000
+      }
+    ],
+    "employees": [
+      {
+        "id": 1122,
+        "name": "Satya Prakash",
+        "position": "Software Engineer",
+        "bio": "Satya has been working with us since 2015."
+      },
+      {
+        "id": 2233,
+        "name": "Amit",
+        "position": "Product Manager",
+        "bio": "Amit is responsible for managing the product roadmap."
+      }
+    ],
+    "companyInfo": "We are a company that values innovation and customer satisfaction."
+  }
+  
