@@ -3,7 +3,7 @@ import data from "../../../public/data"
 import Link from 'next/link';
 const About = () => {
     const employees = data.employees;
-    console.log(employees);
+    //console.log(employees);
     return (
         <div className='container'>
             <h1 className='text-4xl mb-8 mt-8'>About Us</h1>
